@@ -1,0 +1,792 @@
+TBit-trampLatest
+v7
+r0
+t318767230.456218
+cCheck dependencies
+cProcessInfoPlistFile /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Info.plist Bit_trampLatest-Info.plist
+cCompileXIB /Developer/Bit-trampLatest/MainWindow.xib
+cCompileXIB /Developer/Bit-trampLatest/Bit_trampLatestViewController.xib
+cCpResource build/Debug-iphonesimulator/Bit-trampLatest.app/logo.jpg /Users/qassimf/Pictures/logo.jpg
+cCompileXIB /Developer/Bit-trampLatest/Bit_trampLatestViewController_iPad.xib
+cProcessPCH /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch.gch Bit_trampLatest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/main.o /Developer/Bit-trampLatest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestAppDelegate.o /Developer/Bit-trampLatest/Classes/Bit_trampLatestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestViewController.o /Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLDocument_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_CreationExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLNode_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument_PrivateExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_CreationExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_ElementTreeExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNamespaceNode.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNamespaceNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_PrivateExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_XPathExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_XPathExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CTidy.o /Developer/ExtraLibraries/touchcode-read-only/Source/Tidy/CTidy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest normal i386
+cGenerateDSYMFile /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app.dSYM /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest
+cTouch /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app
+
+N/Developer/Bit-trampLatest/Bit_trampLatestViewController.xib
+c000000004CE025D60000000000005829
+t1289758166
+s22569
+
+N/Developer/Bit-trampLatest/Bit_trampLatestViewController_iPad.xib
+c000000004CDE3BC9000000000000621E
+t1289632713
+s25118
+
+N/Developer/Bit-trampLatest/Bit_trampLatest_Prefix.pch
+c000000004CD5100600000000000000C7
+t1289031686
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Bit-trampLatest/Classes/Bit_trampLatestAppDelegate.h
+c000000004CD510060000000000000212
+t1289031686
+s530
+i<UIKit/UIKit.h>
+
+N/Developer/Bit-trampLatest/Classes/Bit_trampLatestAppDelegate.m
+c000000004CDE3C560000000000000ACC
+t1289632854
+s2764
+i"Bit_trampLatestAppDelegate.h"
+i"Bit_trampLatestViewController.h"
+
+N/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.h
+c000000004CDE27610000000000000182
+t1289627489
+s386
+i<UIKit/UIKit.h>
+i"TouchXML.h"
+
+N/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m
+c000000004CE025720000000000000B6D
+t1289758066
+s2925
+i"Bit_trampLatestViewController.h"
+
+N/Developer/Bit-trampLatest/MainWindow.xib
+c000000004CD510060000000000004E89
+t1289031686
+s20105
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit-trampLatest.LinkFileList
+c000000004D4FC8FC000000000000085F
+t1297074428
+s2143
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestAppDelegate.o
+t1297074429
+s53364
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestViewController.o
+t1297074429
+s50444
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CTidy.o
+t1297074430
+s3944
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument.o
+t1297074430
+s25360
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o
+t1297074429
+s10828
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o
+t1297074430
+s9772
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement.o
+t1297074430
+s22224
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_CreationExtensions.o
+t1297074430
+s13312
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o
+t1297074430
+s9528
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNamespaceNode.o
+t1297074430
+s21436
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode.o
+t1297074430
+s43500
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_CreationExtensions.o
+t1297074430
+s19112
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o
+t1297074430
+s14400
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_XPathExtensions.o
+t1297074430
+s16988
+
+N/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/main.o
+t1297074429
+s6280
+
+N/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app
+t1297074430
+s306
+
+N/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app.dSYM
+t1297074430
+s102
+
+N/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest
+t1297074430
+s71692
+
+N/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit_trampLatestViewController.nib
+t1297074429
+s1613
+
+N/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit_trampLatestViewController_iPad.nib
+t1297074429
+s1738
+
+N/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Info.plist
+t1297074428
+s634
+
+N/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/MainWindow.nib
+t1297074429
+s1139
+
+N/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/PkgInfo
+t1297074428
+s8
+
+N/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/logo.jpg
+t1297074428
+s48939
+
+N/Developer/Bit-trampLatest/main.m
+c000000004CD510060000000000000174
+t1289031686
+s372
+i<UIKit/UIKit.h>
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument.h
+c000000004CBDDFA30000000000000AAD
+t1287511971
+s2733
+i"CXMLNode.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument.m
+c000000004CBDDFA30000000000001C42
+t1287511971
+s7234
+i"CXMLDocument.h"
+i<libxml/parser.h>
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLElement.h"
+i"CTidy.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument_PrivateExtensions.h
+c000000004CBDDFA300000000000005FE
+t1287511971
+s1534
+i"CXMLDocument.h"
+i<libxml/parser.h>
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument_PrivateExtensions.m
+c000000004CBDDFA3000000000000067A
+t1287511971
+s1658
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement.h
+c000000004CBDDFA30000000000000775
+t1287511971
+s1909
+i"CXMLNode.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement.m
+c000000004CBDDFA300000000000022FB
+t1287511971
+s8955
+i"CXMLElement.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLNode_CreationExtensions.h"
+i"CXMLNamespaceNode.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_CreationExtensions.h
+c000000004CBDDFA3000000000000059D
+t1287511971
+s1437
+i"CXMLElement.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_CreationExtensions.m
+c000000004CBDDFA30000000000000850
+t1287511971
+s2128
+i"CXMLElement_CreationExtensions.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_ElementTreeExtensions.h
+c000000004CBDDFA30000000000000580
+t1287511971
+s1408
+i"CXMLElement.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_ElementTreeExtensions.m
+c000000004CBDDFA30000000000000668
+t1287511971
+s1640
+i"CXMLElement_ElementTreeExtensions.h"
+i"CXMLElement_CreationExtensions.h"
+i"CXMLNode_CreationExtensions.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNamespaceNode.h
+c000000004CBDDFA3000000000000014E
+t1287511971
+s334
+i<Foundation/Foundation.h>
+i"CXMLNode.h"
+i"CXMLElement.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNamespaceNode.m
+c000000004CBDDFA30000000000000910
+t1287511971
+s2320
+i"CXMLNamespaceNode.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode.h
+c000000004CBDDFA30000000000000B01
+t1287511971
+s2817
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode.m
+c000000004CBDDFA30000000000002778
+t1287511971
+s10104
+i"CXMLNode.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLDocument.h"
+i"CXMLElement.h"
+i"CXMLNode_CreationExtensions.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i<libxml/xmlIO.h>
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_PrivateExtensions.h
+c000000004CBDDFA30000000000000624
+t1287511971
+s1572
+i"CXMLNode.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_PrivateExtensions.m
+c000000004CBDDFA30000000000000A8D
+t1287511971
+s2701
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLElement.h"
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_XPathExtensions.h
+c000000004CBDDFA300000000000005FC
+t1287511971
+s1532
+i"CXMLNode.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_XPathExtensions.m
+c000000004CBDDFA30000000000000B1C
+t1287511971
+s2844
+i"CXMLNode_XPathExtensions.h"
+i"CXMLDocument.h"
+i"CXMLNode_PrivateExtensions.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLDocument_CreationExtensions.h
+c000000004CBDDFA30000000000000814
+t1287511971
+s2068
+i"CXMLDocument.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLDocument_CreationExtensions.m
+c000000004CBDDFA30000000000000720
+t1287511971
+s1824
+i"CXMLDocument_CreationExtensions.h"
+i"CXMLElement.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLNode_CreationExtensions.h
+c000000004CBDDFA30000000000000954
+t1287511971
+s2388
+i"CXMLNode.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLNode_CreationExtensions.m
+c000000004CBDDFA30000000000000FD7
+t1287511971
+s4055
+i"CXMLNode_CreationExtensions.h"
+i"CXMLDocument.h"
+i"CXMLElement.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLDocument_PrivateExtensions.h"
+i"CXMLNamespaceNode.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/Tidy/CTidy.h
+c000000004CBDDFA30000000000000762
+t1287511971
+s1890
+i<Foundation/Foundation.h>
+i"tidy.h"
+i"buffio.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/Tidy/CTidy.m
+c000000004CBDDFA30000000000001D6D
+t1287511971
+s7533
+i"CTidy.h"
+
+N/Developer/ExtraLibraries/touchcode-read-only/Source/TouchXML.h
+c000000004CBDDFA300000000000005F3
+t1287511971
+s1523
+i"CXMLDocument.h"
+i"CXMLDocument_CreationExtensions.h"
+i"CXMLElement.h"
+i"CXMLElement_CreationExtensions.h"
+i"CXMLElement_ElementTreeExtensions.h"
+i"CXMLNode.h"
+i"CXMLNode_CreationExtensions.h"
+i"CXMLNode_XPathExtensions.h"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D4B0F0D0000000000000132
+t1296764685
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2/libxml/parser.h
+c000000004BFDFE0300000000000098A9
+t1274936835
+s39081
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2/libxml/tree.h
+c000000004BFDFE030000000000008F14
+t1274936835
+s36628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2/libxml/xmlIO.h
+c000000004BFDFE0300000000000028D0
+t1274936835
+s10448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004BFDFE030000000000003F47
+t1274936835
+s16199
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004BFDFE030000000000004BF8
+t1274936835
+s19448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D4B0F2E0000000000000110
+t1296764718
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/parser.h
+c000000004CC10DA500000000000098A9
+t1287720357
+s39081
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/tree.h
+c000000004CC10DA50000000000008F14
+t1287720357
+s36628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xmlIO.h
+c000000004CC10DA500000000000028D0
+t1287720357
+s10448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004CC10DA50000000000003F47
+t1287720357
+s16199
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004CC10DA50000000000004BF8
+t1287720357
+s19448
+
+N/Users/qassimf/Pictures/logo.jpg
+c000000004BFFFA95000000000000BF2B
+t1275067029
+s48939
+
+N/var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch.gch
+t1297074429
+s15453392
+
+N/var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-dklvktzstbpmbbdzriscitjoqsnz/Bit_trampLatest_Prefix.pch.gch
+t2
+s0
+
+NBit_trampLatest-Info.plist
+c000000004CD51006000000000000038D
+t1289031686
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318767228#318767228#0(0"0(0#1#0"8604233984#0"0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestAppDelegate.o /Developer/Bit-trampLatest/Classes/Bit_trampLatestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767229.800201
+e318767229.950597
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestAppDelegate.o
+x/Developer/Bit-trampLatest/Classes/Bit_trampLatestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Developer/Bit-trampLatest/Classes/Bit_trampLatestAppDelegate.m318767229#318767229#0(0"0(0#0#63"/Developer/Bit-trampLatest/Classes/Bit_trampLatestAppDelegate.m8607684352#2100"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/Bit-trampLatest/Classes/Bit_trampLatestAppDelegate.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestAppDelegate.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestViewController.o /Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767229.800960
+e318767229.975924
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestViewController.o
+x/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m: In function '-[Bit_trampLatestViewController tableView:cellForRowAtIndexPath:]':
+o/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m:69: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@74"Compile /Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m318767229#318767229#0(424"/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m: In function '-[Bit_trampLatestViewController tableView:cellForRowAtIndexPath:]':/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m:69: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)1(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)318767229#149#275#0(6@66"/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m311450866#69#0#69#0#33"'*' is deprecated (declared at *)0(0#0#66"/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m8607496768#2106"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit_trampLatestViewController.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CTidy.o /Developer/ExtraLibraries/touchcode-read-only/Source/Tidy/CTidy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767230.276295
+e318767230.327328
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CTidy.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/Tidy/CTidy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/Tidy/CTidy.m318767230#318767230#0(0"0(0#0#65"/Developer/ExtraLibraries/touchcode-read-only/Source/Tidy/CTidy.m8608668928#2081"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/Tidy/CTidy.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CTidy.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767229.950716
+e318767230.152322
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument.m318767229#318767230#0(0"0(0#0#67"/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument.m8606504000#2090"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLDocument_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767229.802027
+e318767229.947018
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLDocument_CreationExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLDocument_CreationExtensions.m318767229#318767229#0(0"0(0#0#95"/Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLDocument_CreationExtensions.m8607383232#2137"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLDocument_CreationExtensions.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument_PrivateExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767229.947157
+e318767230.101920
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument_PrivateExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument_PrivateExtensions.m318767229#318767230#0(0"0(0#0#85"/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument_PrivateExtensions.m8606797568#2126"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLDocument_PrivateExtensions.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767230.102053
+e318767230.248972
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement.m318767230#318767230#0(0"0(0#0#66"/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement.m8607876896#2088"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_CreationExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767229.976081
+e318767230.131090
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_CreationExtensions.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_CreationExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_CreationExtensions.m318767229#318767230#0(0"0(0#0#85"/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_CreationExtensions.m8609639072#2126"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_CreationExtensions.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_CreationExtensions.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_ElementTreeExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767230.022644
+e318767230.161272
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_ElementTreeExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_ElementTreeExtensions.m318767230#318767230#0(0"0(0#0#88"/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_ElementTreeExtensions.m8608985088#2132"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLElement_ElementTreeExtensions.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNamespaceNode.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNamespaceNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767230.131231
+e318767230.277712
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNamespaceNode.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNamespaceNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNamespaceNode.m318767230#318767230#0(0"0(0#0#72"/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNamespaceNode.m8606674112#2100"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNamespaceNode.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNamespaceNode.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767230.249134
+e318767230.398238
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode.m318767230#318767230#0(0"0(0#0#63"/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode.m8601951680#2082"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_CreationExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLNode_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767229.873590
+e318767230.022512
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_CreationExtensions.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLNode_CreationExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLNode_CreationExtensions.m318767229#318767230#0(0"0(0#0#91"/Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLNode_CreationExtensions.m8607339488#2129"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/Creation/CXMLNode_CreationExtensions.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_CreationExtensions.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_PrivateExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767230.152468
+e318767230.276161
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_PrivateExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_PrivateExtensions.m318767230#318767230#0(0"0(0#0#81"/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_PrivateExtensions.m8606470784#2118"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_PrivateExtensions.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_XPathExtensions.o /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_XPathExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767230.161540
+e318767230.296979
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_XPathExtensions.o
+x/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_XPathExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_XPathExtensions.m318767230#318767230#0(0"0(0#0#79"/Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_XPathExtensions.m8604171200#2114"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/ExtraLibraries/touchcode-read-only/Source/CXMLNode_XPathExtensions.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/CXMLNode_XPathExtensions.o0#
+
+CCompileC build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/main.o /Developer/Bit-trampLatest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767229.799336
+e318767229.873456
+r1
+xCompileC
+xbuild/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/main.o
+x/Developer/Bit-trampLatest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Developer/Bit-trampLatest/main.m318767229#318767229#0(0"0(0#0#33"/Developer/Bit-trampLatest/main.m8607897152#2048"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -include /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch -c /Developer/Bit-trampLatest/main.m -o /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/Bit-trampLatest/Bit_trampLatestViewController.xib
+s318767228.658091
+e318767229.112168
+r1
+xCompileXIB
+x/Developer/Bit-trampLatest/Bit_trampLatestViewController.xib
+lSLF07#2@44"CompileXIB Bit_trampLatestViewController.xib318767228#318767229#0(0"0(0#0#60"/Developer/Bit-trampLatest/Bit_trampLatestViewController.xib8603811648#580"    cd /Developer/Bit-trampLatest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit_trampLatestViewController.nib /Developer/Bit-trampLatest/Bit_trampLatestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Developer/Bit-trampLatest/Bit_trampLatestViewController_iPad.xib
+s318767228.659314
+e318767229.110769
+r1
+xCompileXIB
+x/Developer/Bit-trampLatest/Bit_trampLatestViewController_iPad.xib
+lSLF07#2@49"CompileXIB Bit_trampLatestViewController_iPad.xib318767228#318767229#0(0"0(0#0#65"/Developer/Bit-trampLatest/Bit_trampLatestViewController_iPad.xib8602290048#590"    cd /Developer/Bit-trampLatest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit_trampLatestViewController_iPad.nib /Developer/Bit-trampLatest/Bit_trampLatestViewController_iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Developer/Bit-trampLatest/MainWindow.xib
+s318767228.657503
+e318767229.057370
+r1
+xCompileXIB
+x/Developer/Bit-trampLatest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318767228#318767229#0(0"0(0#0#41"/Developer/Bit-trampLatest/MainWindow.xib8604045216#542"    cd /Developer/Bit-trampLatest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/MainWindow.nib /Developer/Bit-trampLatest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Bit-trampLatest.app/logo.jpg /Users/qassimf/Pictures/logo.jpg
+s318767228.658649
+e318767228.664244
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Bit-trampLatest.app/logo.jpg
+x/Users/qassimf/Pictures/logo.jpg
+lSLF07#2@37"Copy /Users/qassimf/Pictures/logo.jpg318767228#318767228#0(0"0(0#0#32"/Users/qassimf/Pictures/logo.jpg8603682112#435"    cd /Developer/Bit-trampLatest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/qassimf/Pictures/logo.jpg /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app0#
+
+CGenerateDSYMFile /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app.dSYM /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest
+s318767230.432228
+e318767230.453829
+r1
+xGenerateDSYMFile
+x/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app.dSYM
+x/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/Bit-trampLatest.app.dSYM build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest318767230#318767230#0(0"0(0#0#90"/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest8608052384#371"    cd /Developer/Bit-trampLatest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest -o /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app.dSYM0#
+
+CLd /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest normal i386
+s318767230.398320
+e318767230.432076
+r1
+xLd
+x/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest
+xnormal
+xi386
+lSLF07#2@95"Link /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest318767230#318767230#0(0"0(0#0#0"8607357920#887"    cd /Developer/Bit-trampLatest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Developer/Bit-trampLatest/build/Debug-iphonesimulator -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -filelist /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Objects-normal/i386/Bit-trampLatest.LinkFileList -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Bit-trampLatest0#
+
+CProcessInfoPlistFile /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Info.plist Bit_trampLatest-Info.plist
+s318767228.654278
+e318767228.657418
+r1
+xProcessInfoPlistFile
+x/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Info.plist
+xBit_trampLatest-Info.plist
+lSLF07#2@34"Process Bit_trampLatest-Info.plist318767228#318767228#0(0"0(0#0#53"/Developer/Bit-trampLatest/Bit_trampLatest-Info.plist8604345216#467"    cd /Developer/Bit-trampLatest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Bit_trampLatest-Info.plist -genpkginfo /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app/Info.plist0#
+
+CProcessPCH /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch.gch Bit_trampLatest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318767229.112253
+e318767229.799229
+r1
+xProcessPCH
+x/var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch.gch
+xBit_trampLatest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Bit_trampLatest_Prefix.pch318767229#318767229#0(0"0(0#0#53"/Developer/Bit-trampLatest/Bit_trampLatest_Prefix.pch8608487808#1944"    cd /Developer/Bit-trampLatest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-generated-files.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-own-target-headers.hmap -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-all-target-headers.hmap -iquote /Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/Bit-trampLatest-project-headers.hmap -F/Developer/Bit-trampLatest/build/Debug-iphonesimulator -I/Developer/Bit-trampLatest/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources/i386 -I/Developer/Bit-trampLatest/build/Bit-trampLatest.build/Debug-iphonesimulator/Bit-trampLatest.build/DerivedSources -c /Developer/Bit-trampLatest/Bit_trampLatest_Prefix.pch -o /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-cczusbidsupcujdyazefutuwnnbd/Bit_trampLatest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/zI/zIvTg8oQH703TKo-JTx75k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Bit_trampLatest_Prefix-dklvktzstbpmbbdzriscitjoqsnz/Bit_trampLatest_Prefix.pch.gch Bit_trampLatest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app
+s318767230.453907
+e318767230.456191
+r1
+xTouch
+x/Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app
+lSLF07#2@80"Touch /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app318767230#318767230#0(0"0(0#0#0"8607906272#262"    cd /Developer/Bit-trampLatest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Bit-trampLatest/build/Debug-iphonesimulator/Bit-trampLatest.app0#
+

@@ -1,0 +1,8 @@
+/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m: In function '-[Bit_trampLatestViewController tableView:cellForRowAtIndexPath:]':
+/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m:89: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m: At top level:
+/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m:121: warning: property 'soundRefFile' requires method '-soundRefFile' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m:121: warning: property 'soundRefFile' requires the method 'setSoundRefFile:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m:121: warning: property 'soundFileObject' requires method '-soundFileObject' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m:121: warning: incomplete implementation of class 'Bit_trampLatestViewController'
+/Developer/Bit-trampLatest/Classes/Bit_trampLatestViewController.m:121: warning: method definition for '-loadSwirl:' not found
